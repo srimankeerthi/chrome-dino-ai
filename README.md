@@ -1,82 +1,94 @@
-# AI Dino Runner 🚀
+# 🚀 Chrome Dino AI
 
-A modified version of the classic Chrome T-Rex Runner game with AI auto-play and fun mode features.
+An upgraded version of the classic Chrome Dino game powered by AI, dynamic visuals, and interactive gameplay.
 
-## Features
+🔗 **Live Demo:**
+https://srimankeerthi.github.io/chrome-dino-ai/
 
-### Dynamic Character Switching
-- **Automatic character changes** every 7-10 seconds during gameplay
-- **5 different characters**: Dino 🦖, Bear 🐻, Tiger 🐯, Cat 🐱, Lion 🦁
-- Each character has unique visual effects (size, color tint)
-- **Visual indicator** in top-right corner shows current character
-- Characters switch randomly without interrupting gameplay for smooth gameplay
+---
 
-### Fun Mode
-- Press 'F' to toggle Fun Mode
-- **On-screen Messages**: Random encouraging messages appear on screen every 2 seconds
-- Background color changes randomly every second
-- Game speed gradually increases over time
+## 🔥 Features
 
-### Controls
-- **Space/Up Arrow**: Manual jump
-- **Down Arrow**: Duck
-- **S**: Toggle AI auto-play
-- **F**: Toggle Fun Mode
-- **Enter**: Restart after game over
+* 🤖 **AI Auto-Play**
+  The game plays itself using real-time obstacle detection.
 
-### UI Enhancements
-- Custom title: "AI Dino Runner 🚀"
-- **On-screen fun messages** appear during Fun Mode
-- **AI status indicator** (🤖 AI ON) in top-left when enabled
-- **Character indicator** in top-right showing current animal
-- Score logged to console for debugging
-- Clean, modular JavaScript code
+* 🐯 **Dynamic Character Switching**
+  Switches between Dino, Lion, Bear, Cat, and more.
 
-## How to Play
+* 🎨 **Chaos Mode**
+  Random background colors, UI changes, and fun effects.
 
-1. Open `index.html` in a web browser
-2. Press Space to start the game
-3. Use 'S' to enable AI auto-play
-4. Use 'F' to enable Fun Mode for extra excitement
-5. Try to achieve the highest score!
+* 😂 **Live Reactions**
+  Messages like *"Epic jump!"* appear during gameplay.
 
-## Technical Details
+* ⚡ **Increasing Difficulty**
+  Speed increases over time for a challenging experience.
 
-- Built on the original Chrome T-Rex Runner codebase
-- Uses `requestAnimationFrame` for smooth animation
-- Modular code with clear separation of concerns
-- Compatible with existing Runner.instance_ structure
+* 😇 **Heaven Mode**
+  Unique ending screen after game over.
 
-## Original Source
+---
 
-This is a modified version of the T-Rex Runner game extracted from the Chrome offline error page.
-Original source: [Chromium source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7)
+## 📸 Gameplay Preview
 
-[Play the original!](http://wayou.github.io/t-rex-runner/)
+### 🤖 AI Gameplay
 
-![](assets/hello-kugou.gif)
+*Showcasing AI-powered Dino automatically navigating obstacles with precision.*
 
-- [d-nery](https://github.com/d-nery/)/[t-rex-runner](https://github.com/d-nery/t-rex-runner) [Novas coisas](http://d-nery.github.io/t-rex-runner/) 
-<br>
+![AI Gameplay](assets/screenshots/gameplay.png)
 
-![](assets/novas-coisas.gif)
+---
 
-- [chirag64](https://github.com/chirag64)/[t-rex-runner-bot](https://github.com/chirag64/t-rex-runner-bot) [t-rex runner bot](https://chirag64.github.io/t-rex-runner-bot/) 
-<br>
+### 🎨 Chaos Mode + UI
 
-![](assets/t-rex-runner-bot.gif)
+*Dynamic UI with AI ON, character switching, and real-time reactions.*
 
-- [19janil](https://github.com/19janil)/[t-rex-runner](https://github.com/19janil/t-rex-runner) [t-rex runner](https://19janil.github.io/t-rex-runner/) 
-<br>
+![Chaos Mode](assets/screenshots/chaos.png)
 
-![](assets/t-rex-runner-19janil.gif)
+---
 
-- [enthus1ast](https://github.com/enthus1ast)/[chromeTrip](https://github.com/enthus1ast/chromeTrip) [Chrome Trip by code0](https://code0.itch.io/chrome-trip) 
-<br>
+### 🐯 Character Mode
 
-![](https://user-images.githubusercontent.com/13794470/37289691-964618be-260a-11e8-8c4a-6df04d6c490d.gif)
+*Different animal characters bring a fun twist to the classic game.*
 
-- [zouariste](https://github.com/zouariste)/[corona-runner](https://github.com/zouariste/corona-runner) [Corona runner](https://zouariste.github.io/corona-runner/) 
-<br>
+![Animals](assets/screenshots/animals.png)
 
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
+---
+
+### 😇 Heaven Mode
+
+*A unique and fun ending experience after game over.*
+
+![Heaven Mode](assets/screenshots/heaven.png)
+
+---
+
+## 🎮 Controls
+
+* **Space / ↑** → Jump
+* **↓** → Duck
+* **S** → Toggle AI
+* **F** → Toggle Fun Mode
+* **P** → Pause / Resume
+
+---
+
+## 🛠 Tech Stack
+
+* JavaScript
+* HTML5 Canvas
+* CSS
+
+---
+
+## 💡 Idea
+
+This project transforms a simple offline browser game into a **dynamic AI-driven interactive experience** with personality, visuals, and automation.
+
+---
+
+## 👊 Author
+
+Built with creativity and curiosity by **Keerthi** 🚀
+
+---
