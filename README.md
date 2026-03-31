@@ -35,7 +35,7 @@ https://srimankeerthi.github.io/chrome-dino-ai/
 
 *Showcasing AI-powered Dino automatically navigating obstacles with precision.*
 
-![AI Gameplay](assets/screenshots/gameplay.png)
+![AI Gameplay](assets/screenshots/Screenshot 2026-03-31 150018.png)
 
 ---
 
@@ -43,7 +43,7 @@ https://srimankeerthi.github.io/chrome-dino-ai/
 
 *Dynamic UI with AI ON, character switching, and real-time reactions.*
 
-![Chaos Mode](assets/screenshots/chaos.png)
+![Chaos Mode](assets/screenshots/assets/Screenshot 2026-03-31 150059.png)
 
 ---
 
@@ -51,7 +51,7 @@ https://srimankeerthi.github.io/chrome-dino-ai/
 
 *Different animal characters bring a fun twist to the classic game.*
 
-![Animals](assets/screenshots/animals.png)
+![Animals](assets/Screenshot 2026-03-31 150043.png)
 
 ---
 
